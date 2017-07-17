@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SunriseApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sunrisesunsetapi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.sunrise-sunset.org</Value>
+    </Setting>
+    <Setting Name="yahooplacesapi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://query.yahooapis.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
